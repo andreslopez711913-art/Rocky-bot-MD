@@ -1,7 +1,7 @@
 {
-  "name": "rojy",
+  "name": "Rocky",
   "version": "1.0.0",
-  "description": "Asta WhatsApp Bot",
+  "description": "Rocky WhatsApp Bot",
   "type": "module",
   "main": "index.js",
   "private": true,
