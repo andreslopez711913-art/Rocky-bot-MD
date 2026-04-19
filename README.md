@@ -1,5 +1,5 @@
 <h1 align="center">
-✨🚀 <span style="color:#00FFAA;">Rocky-bot-MD</span> 
+✨🚀 <span style="color:#00FFAA;">Rocky-bot-MD</span> 🤖
 </h1>
 
 <p align="center">
