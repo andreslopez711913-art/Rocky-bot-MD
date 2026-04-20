@@ -81,7 +81,7 @@ async function start() {
 
         if (metodo.trim() === '2') {
             useQR = false
-            const numero = await question("Ingresa el número de WhatsApp (con código de país, ej. 521...): ")
+            const numero = await question("Ingresa el número de WhatsApp (con código de país, ej. +593998391403...): ")
             numeroLimpio = numero.replace(/[^0-9]/g, "")
         }
     }
