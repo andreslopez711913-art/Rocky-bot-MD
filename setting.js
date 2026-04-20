@@ -4,11 +4,11 @@ global.prefix = '.'
 global.libreria = 'Baileys Multi Device'
 
 global.dev = 'Moises'
-global.etiqueta = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
+global.etiqueta = 'Moises'
 
 // JIDs completos ya que aún falta hacer que pase de jid a JIDS
 global.owner = [
-  ['5214183357841', 'Fernando', true],
+  ['593999835568', 'rocky-bot', true],
   ['593998391403', 'Moises', true]
 ]
 
